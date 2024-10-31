@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-  **1.** Create Profit and Loss (P&L) reports by [Fiscal Year]https://github.com/YoganandhanJ/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf & [Months]https://github.com/YoganandhanJ/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
+  **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/YoganandhanJ/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf & _[Months]https://github.com/YoganandhanJ/Excel-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
   
    **2.** Create Profit and Loss (P&L) reports by _[Markets]
   
